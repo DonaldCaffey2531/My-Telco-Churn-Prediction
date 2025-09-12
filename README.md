@@ -1,5 +1,3 @@
-# My-Telco-Churn-Prediction
-
 📊 Telco Customer Churn Prediction
 🔹 Project Overview
 
